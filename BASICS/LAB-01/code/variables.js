@@ -36,7 +36,7 @@ console.log("favorite language:", favoriteLanguage);
 
 
  
-// ==========================================
+// =========================================
 // 3. Challenge (Optional)
 // ==========================================
 // Try to log a full sentence using your variables, like:
