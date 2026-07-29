@@ -29,6 +29,6 @@ node LAB-03/code/control-flow.js
 
 ---
 
-**Status:** ⬜ Not Started | ⬜ In Progress | ⬜ Complete
+**Status:**COMPLETED
 
-**Completion Date:** ___________
+**Completion Date:** 29/07/2026.
