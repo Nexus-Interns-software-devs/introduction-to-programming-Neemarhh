@@ -27,6 +27,6 @@ node LAB-04/code/function-library.js
 
 ---
 
-**Status:** ⬜ Not Started | ⬜ In Progress | ⬜ Complete
+**Status:**Completed
 
-**Completion Date:** ___________
+**Completion Date:** 1st Aug, 2026.
